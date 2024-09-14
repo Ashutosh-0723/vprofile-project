@@ -87,8 +87,5 @@ pipeline{
                 )
             }
         }
-        stage{
-            
-        }
     }
 }
